@@ -1,6 +1,6 @@
-#Simple todo-list app based on a download from Svelte REPL.
+# Simple todo-list app based on a download from Svelte REPL.
 
-##To install, run
+## To install, run
 
 git clone https://github.com/sarehag/svelte-todo.git
 
@@ -18,8 +18,9 @@ npm run start dev
 or
 yarn start dev
 
-##Licensing
+## Licensing
 
+The original
 .gitignore
 main.js
 index.html
@@ -31,4 +32,4 @@ public/favicon.png
 
 Were part of the Svelte REPL boilerplate
 
-store.js is a slightly changed copy from the writable store example in the svelte.dev tutorial.
+store.js is a slightly changed writable store example from the svelte.dev tutorial.

@@ -34,5 +34,3 @@ store.js
 ```
 is a slightly changed writable store example from the svelte.dev tutorial.
 https://github.com/sveltejs/svelte/blob/master/LICENSE
-
-As for my parts see LICENSE.md

@@ -26,9 +26,13 @@ public/global.css
 public/favicon.png
 ```
 
-Were part of the Svelte REPL boilerplate
+Were part of the Svelte REPL boilerplate, and is available under the following license
+https://github.com/sveltejs/svelte-repl/blob/master/LICENSE
+
 ```
 store.js 
 ```
 is a slightly changed writable store example from the svelte.dev tutorial.
+https://github.com/sveltejs/svelte/blob/master/LICENSE
 
+As for my parts see LICENSE.md

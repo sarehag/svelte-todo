@@ -9,16 +9,27 @@
 	});
 	
 	const remove = () => {
-		todoStore.update(state => state.filter(todoItem => todoItem !== text))
+		todoStore.update(state => 
+			state.filter(todoItem => 
+				todoItem !== text
+			)
+		)
 	}
 </script>
 
 <style>
 	div {
+		max-width: 600px;
 		display: flex;
 		justify-content: space-between;
 		padding: 8px 16px;
 		border: 1px solid #ddd;
+	}
+	button {
+		color: black;
+		margin: 0;
+		width: 32px;
+		height: 32px;
 	}
 </style>
 

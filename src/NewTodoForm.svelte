@@ -11,6 +11,12 @@
 	
 </script>
 
+<style>
+	button {
+		color: black;
+	}
+</style>
+
 <div>
 	<input bind:value={text} placeholder="write a new todo">
 	<button on:click={pushTodo}>Add</button>
